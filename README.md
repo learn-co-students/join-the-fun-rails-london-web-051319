@@ -1,4 +1,4 @@
-# Join the Fun
+rake db:migrate RAILS_ENV=test# Join the Fun
 
 ## Instructions
 
